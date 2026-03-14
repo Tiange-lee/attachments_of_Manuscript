@@ -1,2 +1,2 @@
-# attachments_of_TSG
-Here are the attachments of "Distributed Coordination of Coupled Power Distribution-Traffic System Under Three-phase Unbalanced DLMP"
+# attachments_of_the_manuscript
+Here are the attachments of "Imbalance Mitigation Using Unbalanced DLMP-Activated Regulation Flexibility of SC-Hubs"
